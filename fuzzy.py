@@ -1,16 +1,16 @@
 #!/usr/bin/env python3
+'''web fuzzer by Faxalter'''
 import urllib.request
 import argparse 
-import sys
-import os
-import time
-from multiprocessing.dummy import Pool as ThreadPool 
+from multiprocessing.dummy import Pool as ThreadPool
+
+# global variables 
 global args
 global wordlist
 global successful
-successful = []
-''' HTTP fuzzer by Faxalter '''
 
+successful = []
+≈
 def url_exists(location):
 	request = urllib.request.Request(location)
 	request.add_header('User-Agent', 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.6; rv:5.0)')
