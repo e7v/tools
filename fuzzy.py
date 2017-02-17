@@ -9,7 +9,7 @@ global args
 global wordlist
 global successful
 successful = []
-''' HTTP fuzzer by Radical Ed '''
+''' HTTP fuzzer by Faxalter '''
 
 def url_exists(location):
 	request = urllib.request.Request(location)
