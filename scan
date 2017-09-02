@@ -1,2 +1,0 @@
-#!/bin/bash
-python ~/dev/2/Sublist3r/sublist3r.py -v -b -to -o ~/dev/logs/$1.txt -d $1

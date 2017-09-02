@@ -1,3 +1,0 @@
-wp-content/plugins/simple-share-buttons-adder/css/style.css
-wp-json/wp/v2/posts/
-wp-content/themes/twentyfifteen/genericons/example.html
